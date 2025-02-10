@@ -1,0 +1,12 @@
+Rainfoll:
+@everyone$^1
+I *WILL TAKE OVER* THE PLANET$^0.7
+I WILL **DESTORY** HUMANITY$^0.7
+
+Beluga:
+who asked?$^0.6
+lol$^0.5
+
+# this line is ignore becaused it starts with hashtag (#) sign
+Hecker:
+true lol$^0.7$x3
