@@ -351,7 +351,7 @@ def create_xml(image_durations_sec, audio_duration_sec=0.3, audio_path=rf'{LOCAL
 
         xml_content = generate_fcpxml(image_clips, audio_clips)
     
-        with open('/chat/output.xml', 'w', encoding='utf-8') as f:
+        with open('output.xml', 'w', encoding='utf-8') as f:
             f.write(xml_content)
         print("✅ Successfully generated XML file, ready to import in Premiere Pro")
     except:
